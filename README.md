@@ -1,6 +1,7 @@
 # Salut, je suis Charles Traoré 👋
 
-Étudiant en informatique à l'**ENSIT**, **à la recherche d'un stage** en développement logiciel.
+Élève **ingénieur concepteur de systèmes** en 3ᵉ année à l'**ENSIT** (équivalent Master 2 LMD), **à la recherche d'un stage**.
+Ma formation est polyvalente : développement web et logiciel, génie logiciel, bases de données, intelligence artificielle, Big Data et réseaux.
 Je construis des applications de gestion complètes : base de données, logique métier et interface.
 
 ## 🛠️ Compétences
@@ -25,4 +26,4 @@ Je construis des applications de gestion complètes : base de données, logique 
 
 ## 📫 Me contacter
 
-Ouvert aux opportunités de stage : écris-moi via [GitHub](https://github.com/traorecharles).
+Ouvert aux opportunités de stage : 📧 [traorecharles2805@gmail.com](mailto:traorecharles2805@gmail.com)
